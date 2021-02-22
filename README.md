@@ -2,4 +2,8 @@
 
 OH: 1:30-4:30 
 
-A. V. Oppenheim and A. S. Willsky, Signals and Systems, 
+A. V. Oppenheim and A. S. Willsky, Signals and Systems,
+
+
+
+Z-trnas is for com.  
