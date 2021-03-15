@@ -10,3 +10,6 @@ TWO BASIC TYPES OF SIGNALS
 ### 1.1.2
 1. 每個訊號都有能量大小 p=iv
 
+
+
+### 1.4
